@@ -8,35 +8,5 @@
     "updates": "Release<3",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/GorillaGearIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/GorillaGearBanner.png"
-  },
-  {
-    "id": "Test",
-    "name": "Test",
-    "version": "34.65",
-    "url": "https://github.com/Sniffingtoes/test/releases/download/1.0/test.rar",
-    "releaseNotes": "Test application",
-    "updates": "Initial release",
-    "iconUrl": "",
-    "bannerUrl": ""
-  },
-  {
-    "id": "Test2",
-    "name": "Test2",
-    "version": "34.21",
-    "url": "https://github.com/Sniffingtoes/test2/releases/download/1.0/test2.rar",
-    "releaseNotes": "Second test application",
-    "updates": "Bug fixes; Performance improvements",
-    "iconUrl": "",
-    "bannerUrl": ""
-  },
-  {
-    "id": "Test3",
-    "name": "Test3",
-    "version": "54.21",
-    "url": "https://github.com/Sniffingtoes/test3/releases/download/1.0/test3.rar",
-    "releaseNotes": "third test application",
-    "updates": "test",
-    "iconUrl": "",
-    "bannerUrl": ""
   }
 ]
