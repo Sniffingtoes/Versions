@@ -5,6 +5,7 @@
     "version": "1.0",
     "url": "https://github.com/Sniffingtoes/GorillaGear/releases/download/1.0/GorillaGear.rar",
     "releaseNotes": "This is a gorilla tag mod manager with built in mods to inject straight from the app",
+    "updates": "Fixed bug with mod injection; Added new UI themes",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/GorillaGearIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/GorillaGearBanner.png"
   },
@@ -14,6 +15,7 @@
     "version": "34.65",
     "url": "https://github.com/Sniffingtoes/test/releases/download/1.0/test.rar",
     "releaseNotes": "Test application",
+    "updates": "Initial release",
     "iconUrl": "",
     "bannerUrl": ""
   },
@@ -23,6 +25,7 @@
     "version": "34.21",
     "url": "https://github.com/Sniffingtoes/test2/releases/download/1.0/test2.rar",
     "releaseNotes": "Second test application",
+    "updates": "Bug fixes; Performance improvements",
     "iconUrl": "",
     "bannerUrl": ""
   }
