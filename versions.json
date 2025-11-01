@@ -34,5 +34,14 @@
     "releaseNotes": "third test application",
     "iconUrl": "",
     "bannerUrl": ""
+  },
+  {
+    "id": "Test4",
+    "name": "Test4",
+    "version": "1.0",
+    "url": "https://github.com/Sniffingtoes/test4/releases/download/1.0/test4.rar",
+    "releaseNotes": "fourth test application",
+    "iconUrl": "",
+    "bannerUrl": ""
   }
 ]
