@@ -11,7 +11,7 @@
   {
     "id": "Test",
     "name": "Test",
-    "version": "1.0",
+    "version": "34.65",
     "url": "https://github.com/Sniffingtoes/test/releases/download/1.0/test.rar",
     "releaseNotes": "Test application",
     "iconUrl": "",
@@ -20,7 +20,7 @@
   {
     "id": "Test2",
     "name": "Test2",
-    "version": "1.0",
+    "version": "34.21",
     "url": "https://github.com/Sniffingtoes/test2/releases/download/1.0/test2.rar",
     "releaseNotes": "Second test application",
     "iconUrl": "",
