@@ -1,12 +1,12 @@
 MegamindGG Launcher News - November 2025
 
 New App Release:
-GorillaGear v1.0 is now available! Includes improved performance and bug fixes.
+-GorillaGear v1.0 is now available! Includes improved performance and bug fixes.
 
-⚡ Performance Improvements:
+Performance Improvements:
 - Download and extraction process optimized for large apps.
 
-🛠 Bug Fixes:
+Bug Fixes:
 - Fixed issue where apps would sometimes fail to open.
 - Fixed crash when switching between Library and News tabs.
 
