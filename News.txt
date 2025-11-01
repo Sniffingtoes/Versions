@@ -5,6 +5,7 @@ New App Release:
 
 Performance Improvements:
 - Download and extraction process optimized for large apps.
+- optimized the search
 
 Bug Fixes:
 - Fixed issue where apps would sometimes fail to open.
