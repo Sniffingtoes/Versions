@@ -1,1 +1,13 @@
-this is a laucher/installer for the apps that i make and maybe even other people
+MegamindGG Launcher News - November 2025
+
+New App Release:
+GorillaGear v1.0 is now available! Includes improved performance and bug fixes.
+
+⚡ Performance Improvements:
+- Download and extraction process optimized for large apps.
+
+🛠 Bug Fixes:
+- Fixed issue where apps would sometimes fail to open.
+- Fixed crash when switching between Library and News tabs.
+
+Stay tuned for more updates!
