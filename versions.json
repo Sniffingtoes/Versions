@@ -8,5 +8,15 @@
     "updates": "Release<3",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/GorillaGearIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/GorillaGearBanner.png"
+  },
+  {
+    "id": "Test",
+    "name": "Test",
+    "version": "1.0",
+    "url": "https://github.com/Sniffingtoes/Test/releases/download/1.0/Test.rar",
+    "releaseNotes": "Test",
+    "updates": "Test",
+    "iconUrl": "",
+    "bannerUrl": ""
   }
 ]
