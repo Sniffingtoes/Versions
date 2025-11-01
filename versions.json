@@ -1,1 +1,14 @@
-
+[
+{
+"id": "GorillaGear",
+"name": "GorillaGear",
+"version": "1.0",
+"url": "https://github.com/Sniffingtoes/GorillaGear/releases/download/1.0/GorillaGear.zip",
+"sha256": "",
+"size": 45231234,
+"releaseNotes": "Release",
+"iconUrl": "https://raw.githubusercontent.com/YourUser/YourReleases/main/solvira-icon.png",
+"publishedAt": "2025-10-30T12:00:00Z",
+"prerelease": false
+},
+]
