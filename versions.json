@@ -7,7 +7,6 @@
     "releaseNotes": "this is a gorilla tag mod manager with built in mods to inject straight from the app",
     "iconUrl": ""
   },
-
   {
     "id": "Test",
     "name": "Test",
@@ -16,7 +15,6 @@
     "releaseNotes": "test application",
     "iconUrl": ""
   },
-
   {
     "id": "Test2",
     "name": "Test2",
