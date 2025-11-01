@@ -15,5 +15,14 @@
     "url": "https://github.com/Sniffingtoes/test/releases/download/1.0/test.rar",
     "releaseNotes": "test application",
     "iconUrl": ""
+  },
+
+  {
+    "id": "Test2",
+    "name": "Test2",
+    "version": "1.0",
+    "url": "https://github.com/Sniffingtoes/test/releases/download/1.0/test.rar",
+    "releaseNotes": "2nd test application",
+    "iconUrl": ""
   }
 ]
