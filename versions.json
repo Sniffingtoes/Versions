@@ -3,28 +3,8 @@
     "id": "GorillaGear",
     "name": "GorillaGear",
     "version": "1.0",
-    "repoOwner": "Sniffingtoes",
-    "repoName": "GorillaGear",
-    "url": "https://github.com/Sniffingtoes/GorillaGear/releases/download/1.0/GorillaGear.zip",
-    "sha256": "",
-    "size": 45231234,
-    "releaseNotes": "Initial release of GorillaGear",
-    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/GorillaGear/main/icon.png",
-    "publishedAt": "2025-10-30T12:00:00Z",
-    "prerelease": false
-  },
-  {
-    "id": "AnotherApp",
-    "name": "AnotherApp",
-    "version": "1.0",
-    "repoOwner": "Sniffingtoes",
-    "repoName": "AnotherApp",
-    "url": "https://github.com/Sniffingtoes/AnotherApp/releases/download/1.2/AnotherApp.zip",
-    "sha256": "",
-    "size": 12345678,
-    "releaseNotes": "Bug fixes and improvements",
-    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/AnotherApp/main/icon.png",
-    "publishedAt": "2025-11-01T08:00:00Z",
-    "prerelease": false
+    "url": "https://github.com/Sniffingtoes/GorillaGear/archive/refs/heads/main.zip",
+    "releaseNotes": "Download the latest source code",
+    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/GorillaGear/main/icon.png"
   }
 ]
