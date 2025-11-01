@@ -28,5 +28,15 @@
     "updates": "Bug fixes; Performance improvements",
     "iconUrl": "",
     "bannerUrl": ""
+  },
+  {
+    "id": "Test3",
+    "name": "Test3",
+    "version": "54.21",
+    "url": "https://github.com/Sniffingtoes/test3/releases/download/1.0/test3.rar",
+    "releaseNotes": "third test application",
+    "updates": "test",
+    "iconUrl": "",
+    "bannerUrl": ""
   }
 ]
