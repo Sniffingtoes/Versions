@@ -18,5 +18,15 @@
     "updates": "small bug fixes",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
+  },
+  {
+    "id": "Eat Ediwn Sim",
+    "name": "Eat Ediwn Sim",
+    "version": "6.7",
+    "url": "",
+    "releaseNotes": "small bug fixes",
+    "updates": "small bug fixes",
+    "iconUrl": "",
+    "bannerUrl": ""
   }
 ]
