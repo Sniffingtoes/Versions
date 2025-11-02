@@ -2,6 +2,7 @@ MegamindGG Launcher News - November 2025
 
 New App Release:
 -GorillaGear v1.0 is now available! Includes improved performance and bug fixes.
+-ClickForge v1.0 is now available!
 
 Performance Improvements:
 - Download and extraction process optimized for large apps.
