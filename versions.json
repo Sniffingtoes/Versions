@@ -16,7 +16,7 @@
     "url": "https://github.com/Sniffingtoes/ClickForge/releases/download/1.0/ClickForge.rar",
     "releaseNotes": "A symple autoclicker with hotkeys",
     "updates": "Release<3",
-    "iconUrl": "",
-    "bannerUrl": ""
+    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
+    "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
   }
 ]
