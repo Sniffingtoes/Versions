@@ -2,5 +2,6 @@ MegamindGG Launcher News - November 2nd 2025
 
 Bug Fixes:
 -ClickForge v1.1 is now available! small bug fixes
+-GorillaGear v1.1 is now available! small bug fixes
 
 Stay tuned for more updates!
