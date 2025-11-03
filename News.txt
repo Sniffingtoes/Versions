@@ -1,4 +1,7 @@
-MegamindGG Launcher News - November 3rd 2025
+MegamindGG Launcher News - November 4th 2025
+
+New Apps:
+Pulse V1 - a simple pc heath checker to see your specs and usage 
 
 Bug Fixes:
 -ClickForge v1.1 is now available! small bug fixes
