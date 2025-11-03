@@ -18,15 +18,5 @@
     "updates": "small bug fixes",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
-  },
-  {
-    "id": "jeometry dasch",
-    "name": "jeometry dasch",
-    "version": "1.1",
-    "url": "https://github.com/Sniffingtoes/jeometry-dasch/releases/download/1.1/Jeometrydasch.rar",
-    "releaseNotes": "a game (geometry dash clone basically) i made in like an hour because i was bored idk if it will ever update",
-    "updates": "Release<3",
-    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/jeometrydaschIcon.png",
-    "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/jeometrydaschBanner.png"
   }
 ]
