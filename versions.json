@@ -14,7 +14,7 @@
     "name": "ClickForge",
     "version": "1.1",
     "url": "https://github.com/Sniffingtoes/ClickForge/releases/download/1.1/ClickForge.rar",
-    "releaseNotes": "A symple auto clicker with hotkeys",
+    "releaseNotes": "A simple auto clicker with hotkeys",
     "updates": "small bug fixes",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
@@ -24,7 +24,7 @@
     "name": "Pulse",
     "version": "1.0",
     "url": "",
-    "releaseNotes": "A symple pc health tracker to see your pc specs and usage",
+    "releaseNotes": "a simple pc health tracker that shows your specs and usage",
     "updates": "Release<3",
     "iconUrl": "",
     "bannerUrl": ""
