@@ -18,5 +18,15 @@
     "updates": "small bug fixes",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
+  },
+  {
+    "id": "Pulse",
+    "name": "Pulse",
+    "version": "1.0",
+    "url": "",
+    "releaseNotes": "A symple pc health tracker to see your pc specs and usage",
+    "updates": "Release<3",
+    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
+    "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
   }
 ]
