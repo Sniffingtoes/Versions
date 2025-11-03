@@ -18,5 +18,15 @@
     "updates": "small bug fixes",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
+  },
+  {
+    "id": "jeometry dasch",
+    "name": "jeometry dasch",
+    "version": "1.0",
+    "url": "",
+    "releaseNotes": "a geometry dash clone lol",
+    "updates": "Release<3",
+    "iconUrl": "",
+    "bannerUrl": ""
   }
 ]
