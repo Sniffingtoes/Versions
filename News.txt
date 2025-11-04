@@ -1,10 +1,6 @@
 MegamindGG Launcher News - November 4th 2025
 
-New Apps:
-Pulse V1 - a simple pc heath checker to see your specs and usage 
-
 Bug Fixes:
--ClickForge v1.1 is now available! small bug fixes
--GorillaGear v1.1 is now available! small bug fixes
+-Pulse V1.1 - small big fixes 
 
 Stay tuned for more updates!
