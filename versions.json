@@ -22,10 +22,10 @@
   {
     "id": "Pulse",
     "name": "Pulse",
-    "version": "1.0",
-    "url": "https://github.com/Sniffingtoes/Pulse/releases/download/1.0/Pulse.rar",
+    "version": "1.1",
+    "url": "https://github.com/Sniffingtoes/Pulse/releases/download/1.1/Pulse.rar",
     "releaseNotes": "a simple pc health tracker that shows your specs and usage",
-    "updates": "Release<3",
+    "updates": "Small big fix",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/PulseIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/PulseBanner.png"
   }
