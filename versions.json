@@ -18,5 +18,15 @@
     "updates": "New visuals",
     "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeIcon.png",
     "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
+  },
+  {
+    "id": "HydraHD",
+    "name": "HydraHD",
+    "version": "1.0",
+    "url": "https://github.com/Sniffingtoes/HydraHD/releases/download/1.0/HydraHD.rar",
+    "releaseNotes": "An app to watch all movies (just a webview of the website hydraHD)",
+    "updates": "Release<3",
+    "iconUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/Hydra.png",
+    "bannerUrl": "https://raw.githubusercontent.com/Sniffingtoes/Versions/main/ClickForgeBanner.png"
   }
 ]
